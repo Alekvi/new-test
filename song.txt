@@ -6,10 +6,9 @@ please you
 SOME TIME
 REEEEEEEE
 Feature
-<<<<<<< HEAD
 ress
-=======
 terwex
 winter
->>>>>>> feature
 lol
+ooo
+
